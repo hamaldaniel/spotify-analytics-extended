@@ -16,7 +16,6 @@ Extended Spotify Data Analysis project using SQL + PostgreSQL, ETL pipelines, an
 
 
 ### 1) Clone & configure
-```bash
-git clone <your-fork-url> spotify-analytics-extended
+git clone https://github.com/<your-username>/spotify-analytics-extended.git
 cd spotify-analytics-extended
-cp .env.example .env
+
